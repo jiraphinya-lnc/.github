@@ -1,4 +1,4 @@
-### Hi there 👋 jiraphinya-lnc
+### Hi there 👋 jiraphinya-lnc mint jiraphinya
 
 
 
