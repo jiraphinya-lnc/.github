@@ -7,10 +7,7 @@
 ###### โปรแกรมต่างๆ ธีม ตัวอย่างโค้ด App อื่นๆ 
 ###### สามารถดาวน์โหลด ไปใช้ได้ ตามต้องการ [นโยบายเเละความเป็นส่วนตัว](นโยบายที่เก็บ.md) หากสงสัย
 ##### 🌈 บางอย่างเท่านั้นที่ 📌ขาย🍿เพื่อเป็นทุนในการพัฒนา 🐾จะเขียนไว้ชัดเจน
-
 ######  👩‍💻 ฉันหวังว่าที่เก็บเเห่งนี้ มีบางอย่าง ที่คุณกำลังต้องการ
-
-
 ###### **🧙 You can do mighty things with the power of** [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ```
