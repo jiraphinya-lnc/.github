@@ -34,4 +34,10 @@
 ![ ]()
 ```
 
+```
+ https://jiraphinya.coffeecup.com/
+ https://g.dev/mint-jiraphinya
+ https://dev.azure.com/ai-jiraphinya/Mint
+ https://medium.com/@mint-jiraphinya
 
+```
